@@ -1,2 +1,3 @@
 Hari ini belajar git
-Membuat repo
+-Membuat repo
+-push branch ke repository
